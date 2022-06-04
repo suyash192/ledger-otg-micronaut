@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.suyashbelekar
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, graalvm, gradle, http-client, jackson-databind, kotest, kotlin, kotlin-application, kotlin-build, kotlin-extension-functions, log4j2, micronaut-build, netty-server, openapi, properties, readme, security-annotations, security-session, shade, swagger-ui]
